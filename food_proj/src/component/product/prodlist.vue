@@ -4,63 +4,63 @@
             <h1>Desserts</h1>
             <div class="product-grid">
                 <div class="product-card">
-                    <img src="@/images/image-waffle-desktop.jpg" alt="Waffle with Berries">
+                    <img src="@/assets/images/image-waffle-desktop.jpg" alt="Waffle with Berries">
                     <div class="product-title">Waffle with Berries</div>
                     <div class="product-desc">Waffle</div>
                     <div class="product-price">$6.50</div>
                     <button class="add-cart-btn">Add to Cart</button>
                 </div>
                 <div class="product-card">
-                    <img src="@/images/image-creme-brulee-desktop.jpg" alt="Vanilla Bean Crème Brûlée">
+                    <img src="@/assets/images/image-creme-brulee-desktop.jpg" alt="Vanilla Bean Crème Brûlée">
                     <div class="product-title">Vanilla Bean Crème Brûlée</div>
                     <div class="product-desc">Crème Brûlée</div>
                     <div class="product-price">$7.00</div>
                     <button class="add-cart-btn">Add to Cart</button>
                 </div>
                 <div class="product-card">
-                    <img src="@/images/image-macaron-desktop.jpg" alt="Macaron Mix of Five">
+                    <img src="@/assets/images/image-macaron-desktop.jpg" alt="Macaron Mix of Five">
                     <div class="product-title">Macaron Mix of Five</div>
                     <div class="product-desc">Macaron</div>
                     <div class="product-price">$8.00</div>
                     <button class="add-cart-btn">Add to Cart</button>
                 </div>
                 <div class="product-card">
-                    <img src="@/images/image-tiramisu-desktop.jpg" alt="Classic Tiramisu">
+                    <img src="@/assets/images/image-tiramisu-desktop.jpg" alt="Classic Tiramisu">
                     <div class="product-title">Classic Tiramisu</div>
                     <div class="product-desc">Tiramisu</div>
                     <div class="product-price">$5.50</div>
                     <button class="add-cart-btn">Add to Cart</button>
                 </div>
                 <div class="product-card">
-                    <img src="@/images/image-baklava-desktop.jpg" alt="Pistachio Baklava">
+                    <img src="@/assets/images/image-baklava-desktop.jpg" alt="Pistachio Baklava">
                     <div class="product-title">Pistachio Baklava</div>
                     <div class="product-desc">Baklava</div>
                     <div class="product-price">$4.00</div>
                     <button class="add-cart-btn">Add to Cart</button>
                 </div>
                 <div class="product-card">
-                    <img src="@/images/image-meringue-desktop.jpg" alt="Lemon Meringue Pie">
+                    <img src="@/assets/images/image-meringue-desktop.jpg" alt="Lemon Meringue Pie">
                     <div class="product-title">Lemon Meringue Pie</div>
                     <div class="product-desc">Pie</div>
                     <div class="product-price">$5.00</div>
                     <button class="add-cart-btn">Add to Cart</button>
                 </div>
                 <div class="product-card">
-                    <img src="@/images/image-cake-desktop.jpg" alt="Red Velvet Cake">
+                    <img src="@/assets/images/image-cake-desktop.jpg" alt="Red Velvet Cake">
                     <div class="product-title">Red Velvet Cake</div>
                     <div class="product-desc">Cake</div>
                     <div class="product-price">$4.50</div>
                     <button class="add-cart-btn">Add to Cart</button>
                 </div>
                 <div class="product-card">
-                    <img src="@/images/image-brownie-desktop.jpg" alt="Salted Caramel Brownie">
+                    <img src="@/assets/images/image-brownie-desktop.jpg" alt="Salted Caramel Brownie">
                     <div class="product-title">Salted Caramel Brownie</div>
                     <div class="product-desc">Brownie</div>
                     <div class="product-price">$5.50</div>
                     <button class="add-cart-btn">Add to Cart</button>
                 </div>
                 <div class="product-card">
-                    <img src="@/images/image-panna-cotta-desktop.jpg" alt="Vanilla Panna Cotta">
+                    <img src="@/assets/images/image-panna-cotta-desktop.jpg" alt="Vanilla Panna Cotta">
                     <div class="product-title">Vanilla Panna Cotta</div>
                     <div class="product-desc">Panna Cotta</div>
                     <div class="product-price">$6.50</div>
